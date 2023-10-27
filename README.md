@@ -9,7 +9,7 @@ An Express.js backend for an E-Commerce site utilizing MySQL and Sequelize
 To use this application, the user will need to clone the code to their local machine, run a "npm install" in the terminal to install the required packages, log into MySQL and run "SOURCE db/schema.sql, and then run "npm run seed" in the terminal. This will create the database and then seed it with the pre=loaded seed data for testing. After this is complete, the user can start the server by running the "node server.js" command in the terminal and using Insomnia (or a similar program) be able to test the various endpoints and routes to ensure they work correctly. Be sure to set up the localHost routes in Insomnia beforehand to reach the correct endpoints prior to testing.
 
 Link to demonstration video:
-[E-Commerce Backend Demo Video](https://drive.google.com/file/d/1hiwjt3Ru4Zg-Cl2XyI-fJPfHGVWPZU_L/view)
+[E-Commerce Backend Demo Video](https://drive.google.com/file/d/1YxW7-n2uzamXDg3gLDfyR5tkl5UHh9Oo/view)
 
 ## Credits
 
